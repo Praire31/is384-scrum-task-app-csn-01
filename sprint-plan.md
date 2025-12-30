@@ -8,7 +8,7 @@
 5. Edit or delete a task
 
 ## Sprint Goal
-Build the core features required to manage tasks in the application.
+Build the core features required to manage tasks in the application, including creating, assigning, and tracking task completion.
 
 ## Definition of Done
 - Code is pushed to GitHub
